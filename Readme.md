@@ -65,8 +65,10 @@ The goal is to prove that the backend + frontend can handle high-frequency strea
 cd SensorAnalytics.Api
 dotnet run
 
-### Backend
-```bash
+### Frontend
+
 cd SensorAnalytics.UI
-npm install
+npm install 
+### If you encounter dependency errors, use:
+npm install --legacy-peer-deps
 ng serve
