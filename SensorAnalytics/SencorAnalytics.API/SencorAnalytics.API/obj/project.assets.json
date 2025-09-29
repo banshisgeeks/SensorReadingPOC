@@ -3076,11 +3076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SG\\Prrojects\\New folder\\sensor_reading_POC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\SensorAnalytics.Api.csproj",
+      "projectUniqueName": "C:\\SG\\Prrojects\\New folder\\SensorReadingPOC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\SensorAnalytics.Api.csproj",
       "projectName": "SensorAnalytics.Api",
-      "projectPath": "C:\\SG\\Prrojects\\New folder\\sensor_reading_POC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\SensorAnalytics.Api.csproj",
+      "projectPath": "C:\\SG\\Prrojects\\New folder\\SensorReadingPOC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\SensorAnalytics.Api.csproj",
       "packagesPath": "C:\\Users\\banshi\\.nuget\\packages\\",
-      "outputPath": "C:\\SG\\Prrojects\\New folder\\sensor_reading_POC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\obj\\",
+      "outputPath": "C:\\SG\\Prrojects\\New folder\\SensorReadingPOC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15CNG//pJYs=",
+  "dgSpecHash": "txcpjvGUCHU=",
   "success": true,
-  "projectFilePath": "C:\\SG\\Prrojects\\New folder\\sensor_reading_POC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\SensorAnalytics.Api.csproj",
+  "projectFilePath": "C:\\SG\\Prrojects\\New folder\\SensorReadingPOC\\SensorAnalytics\\SencorAnalytics.API\\SencorAnalytics.API\\SensorAnalytics.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\banshi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\banshi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
