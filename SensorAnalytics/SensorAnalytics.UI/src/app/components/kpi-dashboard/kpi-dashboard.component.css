@@ -1,0 +1,33 @@
+/* kpi-dashboard.component.css */
+.kpi-card {
+  background-color: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.kpi-value {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.kpi p {
+  margin: 0.2rem 0;
+  font-weight: 500;
+}
+.center-container {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+ 
+}
