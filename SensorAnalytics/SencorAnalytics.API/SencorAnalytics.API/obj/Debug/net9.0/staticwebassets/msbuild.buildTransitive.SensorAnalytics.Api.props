@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SensorAnalytics.Api.props" />
+</Project>

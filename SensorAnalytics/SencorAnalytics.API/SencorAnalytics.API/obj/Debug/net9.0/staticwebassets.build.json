@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2EcLay1ZCJ6YxOf8TqAEWN1dw1ZftFdCwkM4DAORr6I=",
+  "Source": "SensorAnalytics.Api",
+  "BasePath": "_content/SensorAnalytics.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
